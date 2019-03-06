@@ -1,5 +1,6 @@
 <?php
 // your soc needed here
+// u can change with ur own bait
 echo'<center><h1>Click image to see naked Rikka</h1><br>
 <a href="https://sinkaroid.org/labs/avatar/rikkan.jpg">
 <img src="https://sinkaroid.org/labs/avatar/rikka.jpg"width="380" height="550"></a>';
